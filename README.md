@@ -45,13 +45,14 @@ git branch ashley-branch
 staging file(s) to the current branch:
 
 ```git
-[change me]
+git add .
 ```
 
 locking in the staged files to the current branch:
 
 ```git
-[change me]
+[master 30651aa] Ashley updated the master README
+ 1 file changed, 19 insertions(+), 3 deletions(-)
 ```
 
 After completing, commit to this master branch with the message "[Name] updated the master README"
