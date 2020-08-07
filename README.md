@@ -11,19 +11,35 @@ There are 3 branches with different instructions of what needs to be accomplishe
 check for any changes in the repo:
 
 ```git
-[change me]
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
 ```
 
 retrieve a list of all the branches:
 
 ```git
-[change me]
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/august
+  remotes/origin/filler
+  remotes/origin/frozen
+  remotes/origin/lulu
+  remotes/origin/master
+  remotes/origin/meme
+  remotes/origin/random
+  remotes/origin/ruby
+  remotes/origin/tricky
+  remotes/origin/usmc
+  remotes/origin/what
+  remotes/origin/yessir
 ```
 
 creation of a new branch:
 
 ```git
-[change me]
+git branch ashley-branch
 ```
 
 staging file(s) to the current branch:
